@@ -1,0 +1,4 @@
+name: LuxateCore
+version: 1.0.0
+main: me.rumdum.core.LuxateCore
+authors: [RumDum]
